@@ -1,0 +1,9 @@
+git username 변경될 경우
+
+git credential 캐시에 영향으로 
+
+유저 네임과 비번을 새로 설정해 remore
+username:pass@
+
+[remote "origin"]
+	url = https://username:pass@github.com/1hs1/test.git
