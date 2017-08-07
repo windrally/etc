@@ -1,6 +1,6 @@
-git username 변경될 경우
+username 변경될 경우
 
-git credential 캐시에 영향으로 
+credential 캐시에 영향으로 
 
 유저 네임과 비번을 새로 설정해 remote
 username:pass@
