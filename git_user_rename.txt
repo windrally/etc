@@ -1,9 +1,10 @@
-username 변경될 경우
+Git 사용시 username 변경될 경우 
+credential 캐시에 영향으로 유저 네임과 비번을 새로 설정해 remote 해야 합니다.
 
-credential 캐시에 영향으로 
-
-유저 네임과 비번을 새로 설정해 remote
-username:pass@
+Ex)
+Username : AAA
+Password : BBB
+Git 주소 : https://github.com/ex/test.git
 
 [remote "origin"]
-	url = https://username:pass@github.com/1hs1/test.git
+	url = https://AAA:BBB@github.com/ex/test.git
