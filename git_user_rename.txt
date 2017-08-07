@@ -1,8 +1,8 @@
-git username º¯°æµÉ °æ¿ì
+git username ë³€ê²½ë  ê²½ìš°
 
-git credential Ä³½Ã¿¡ ¿µÇâÀ¸·Î 
+git credential ìºì‹œì— ì˜í–¥ìœ¼ë¡œ 
 
-À¯Àú ³×ÀÓ°ú ºñ¹øÀ» »õ·Î ¼³Á¤ÇØ remore
+ìœ ì € ë„¤ì„ê³¼ ë¹„ë²ˆì„ ìƒˆë¡œ ì„¤ì •í•´ remote
 username:pass@
 
 [remote "origin"]
